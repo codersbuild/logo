@@ -1,4 +1,4 @@
-Manifest Interactive Company Logo
+Coders Build Logo
 ============
 
 Logo Colors:

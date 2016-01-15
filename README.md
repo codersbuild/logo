@@ -54,16 +54,22 @@ Rectangle Logo:
 
 Icon Boxed:
 ---
+
 ![icon_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-color.png "icon_color")
 
-![icon_black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-black.png "icon_black")
+![icon-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-color-dark-fill.png "icon-color-dark-fill")
 
-![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-white.png "icon_white")
+![icon-black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-black.png "icon_black")
 
-Icon Boxed:
+![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-white-dark-fill.png "icon_white")
+
+Icon:
 ---
+
 ![icon_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-color.png "icon_color")
 
-![icon_black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-black.png "icon_black")
+![icon-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-color-dark-fill.png "icon-color-dark-fill")
 
-![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-white.png "icon_white")
+![icon-black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-black.png "icon_black")
+
+![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-white-dark-fill.png "icon_white")

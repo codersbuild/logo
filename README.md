@@ -46,30 +46,32 @@ Square Logo:
 
 Rectangle Logo:
 ---
-![rectangle_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/exports/logo-color.png "rectangle_color")
+![rectangle_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/334x100/logo-color.png "rectangle_color")
 
-![rectangle_black](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/exports/logo-black.png "rectangle_black")
+![rectangle_black](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/334x100/logo-black.png "rectangle_black")
 
-![rectangle_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/exports/logo-white.png "rectangle_white")
+![logo-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/334x100/logo-color-dark-fill.png "logo-color-dark-fill")
+
+![logo-white-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/334x100/logo-white-dark-fill.png "logo-white-dark-fill")
 
 Icon Boxed:
 ---
 
 ![icon_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-color.png "icon_color")
 
-![icon-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-color-dark-fill.png "icon-color-dark-fill")
-
 ![icon-black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-black.png "icon_black")
 
-![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-white-dark-fill.png "icon_white")
+![icon-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-color-dark-fill.png "icon-color-dark-fill")
+
+![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/256x256/icon-white-dark-fill.png "logo-white-dark-fill")
 
 Icon:
 ---
 
 ![icon_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-color.png "icon_color")
 
-![icon-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-color-dark-fill.png "icon-color-dark-fill")
-
 ![icon-black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-black.png "icon_black")
+
+![icon-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-color-dark-fill.png "icon-color-dark-fill")
 
 ![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/256x256/icon-white-dark-fill.png "icon_white")

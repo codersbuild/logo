@@ -6,37 +6,37 @@ Logo Colors:
 
 | Color | Hex     |
 |-------|---------|
-| Green | #52ED0C |
-| White | #F1F2F2 |
-| Black | #9DC03B |
+| Blue  | #01C0D3 |
+| White | #FFFFFF |
+| Black | #333333 |
 
 Font Colors:
 ---
 
 | Color       | Hex     |
 |-------------|---------|
-| Green       | #52ED0C |
-| White       | #F1F2F2 |
-| Black       | #9DC03B |
-| Light Grey  | #A7A9AC |
-| Dark Grey   | #6A6B6D |
+| Blue        | #01C0D3 |
+| White       | #FFFFFF |
+| Black       | #333333 |
+| Light Grey  | #AAAAAA |
+| Dark Grey   | #555555 |
 
 Background Colors:
 ---
 
 | Color | Hex     |
 |-------|---------|
-| Light | #F1F2F2 |
-| Dark  | #424243 |
+| Light | #FFFFFF |
+| Dark  | #333333 |
 
 
-__Nerd Fact:__ `#52ED0C` is `coders` backwards
+__Nerd Fact:__ `#01C0D3` is a play on `Binary Code`
 
 Ubuntu Font
 ---
 [http://www.google.com/fonts#UsePlace:use/Collection:Ubuntu](http://www.google.com/fonts#UsePlace:use/Collection:Ubuntu)
 
-Square Logos:
+Square Logo:
 ---
 ![square_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/exports/logo-color.png "square_color")
 
@@ -44,7 +44,7 @@ Square Logos:
 
 ![square_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/exports/logo-white.png "square_white")
 
-Rectangle Logos:
+Rectangle Logo:
 ---
 ![rectangle_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/exports/logo-color.png "rectangle_color")
 
@@ -52,7 +52,15 @@ Rectangle Logos:
 
 ![rectangle_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-rectangle/exports/logo-white.png "rectangle_white")
 
-Icons:
+Icon Boxed:
+---
+![icon_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/exports/icon-color.png "icon_color")
+
+![icon_black](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/exports/icon-black.png "icon_black")
+
+![icon_white](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon-box/exports/icon-white.png "icon_white")
+
+Icon Boxed:
 ---
 ![icon_color](https://raw.githubusercontent.com/codersbuild/logo/master/art/icon/exports/icon-color.png "icon_color")
 

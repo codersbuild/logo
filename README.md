@@ -45,9 +45,9 @@ See complete list of Square Logos in [./art/logo-square](https://github.com/code
 
 ![square_black](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/266x200/logo-black.png "square_black")
 
-![logo-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/334x100/logo-color-dark-fill.png "logo-color-dark-fill")
+![logo-color-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/266x200/logo-color-dark-fill.png "logo-color-dark-fill")
 
-![logo-white-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/334x100/logo-white-dark-fill.png "logo-white-dark-fill")
+![logo-white-dark-fill](https://raw.githubusercontent.com/codersbuild/logo/master/art/logo-square/266x200/logo-white-dark-fill.png "logo-white-dark-fill")
 
 Rectangle Logo:
 ---
